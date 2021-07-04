@@ -1,0 +1,1 @@
+the class diagram of java pattern of strategy
